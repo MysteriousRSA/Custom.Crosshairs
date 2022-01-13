@@ -8,9 +8,7 @@ I'll add more weapon types over time untill im covering everything
 
 # INSTRUCTIONS
 
-Instructions
-
-# How To Modify Crosshairs:
+### How To Modify Crosshairs:
 
 1: Go to /Mysterious.Crosshairs/keyvalues/scripts/weapons/mp_weapon_[desired weapon].text
 
@@ -31,7 +29,7 @@ Instructions
 
 
 
-# Overlapping Crosshairs
+### Overlapping Crosshairs
 
 It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons].txt 
 
@@ -59,7 +57,7 @@ It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons
 
 
 
-# No Crosshair?
+### No Crosshair?
 
     WeaponData
     {   
@@ -72,7 +70,7 @@ It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons
 	    }
     }
 
-# WHERE TO FIND CROSSHARS?
+### WHERE TO FIND CROSSHARS?
 
 A list of crosshairs can be found in /Mysterious.crosshairs/INSTRUCTIONS/Crosshair Examples
 Crosshairs taken from the modding guide on https://noskill.gitbook.io/titanfall2/
