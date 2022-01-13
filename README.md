@@ -42,26 +42,6 @@ In Theory, and RUI can work, just dont ask me where to find them
 
 
 
-// Multiple Crosshairs at the same time?
-
-In Theory, you can overlap crosshairs like this
-
-    WeaponData
-    {   
-	    RUI_CrosshairData
-	    {
-		    Crosshair_2 //Set this to the amount of crosshairs you want to use
-		    {
-				"ui"						"ui/crosshair_alternator"   //First Crosshair
- 				"ui"						"ui/crosshair_tri"          //Second Crosshair
-		    }
-	    }
-    }
-
-This should overlap the Alternator and the R201's crosshairs with eachother
-
-
-
 // Extra Info
 
 Keep in mind that some weapons have animated or dyynamic crosshairs.
