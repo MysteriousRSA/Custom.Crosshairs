@@ -75,7 +75,7 @@ It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons
 # WHERE TO FIND CROSSHARS?
 
 A list of crosshairs can be found in /Mysterious.crosshairs/INSTRUCTIONS/Crosshair Examples
-Crosshairs taken from the modding guide on noskill.gitbook.io
+Crosshairs taken from the modding guide on https://noskill.gitbook.io/titanfall2/
 
 In Theory, and RUI can work, just dont ask me where to find them
 
