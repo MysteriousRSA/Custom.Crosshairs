@@ -35,22 +35,27 @@ Instructions
 
 It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons].txt 
 
-WeaponData
-{
-    active_crosshair_count              "2"	//Amount of active Crosshairs
+	WeaponData
+	{
+	    active_crosshair_count              "2" //Amount of crosshairs you want to use
 
-    RUI_CrosshairData
-    {
-        Crosshair_1
-        {
-            "ui"                        "ui/crosshair_alternator"   //First Crosshair
-        }
-        Crosshair_2
-        {
-            "ui"                        "ui/crosshair_tri"          //Second Crosshair
-        }
-    }
-}
+  	  RUI_CrosshairData
+  	  {
+   	     Crosshair_1                                                                     //Crosshair 1 Start
+  	      {
+  	          "ui"                        "ui/crosshair_alternator"   //First Crosshair
+  	      }                                                                               //Crosshair 1 End
+  	      Crosshair_2                                                                     //Crosshair 2 Start
+	        {
+	            "ui"                        "ui/crosshair_tri"          //Second Crosshair
+  	      }                                                                               //Crosshair 2 End
+ 	   }
+	}
+
+
+//The sections can be repeated to add more Crosshairs
+
+//This example will combine the Alternator and R201 crossahirs into one
 
 
 
