@@ -1,4 +1,4 @@
-### Custom.Crosshairs
+# Custom.Crosshairs
 
 This is a mod for Titnafall 2's Norhtstar client that allows you to modify any weapons's crosshair
 
