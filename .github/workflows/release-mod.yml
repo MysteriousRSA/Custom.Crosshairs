@@ -24,17 +24,16 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
-      - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v2.3.1
-        with:
-          name: Mysterious.Crosshairs
-          path: Mysterious.Crosshairs
-          if-no-files-found: error
 
-      - uses: actions/download-artifact@v2
+      - name: zip
+        uses: montudor/action-zip@v1.0.0
         with:
-          name: Mysterious.Crosshairs
-          path: Mysterious.Crosshairs.zip
+          args: zip -qq -r Mysterious.Crosshairs.zip Mysterious.Crosshairs
 
-      - run: ls -R
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Latest Build"
+          files: Mysterious.Crosshairs.zip
