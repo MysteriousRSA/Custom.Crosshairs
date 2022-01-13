@@ -86,6 +86,8 @@ In Theory, any RUI can work, just don't ask me where to find them
 
 # Extra Info
 
+All weapons that make use of special crosshairs have their defaults in place, But there is nothing preventing you from modifying them, all the files are there.
+
 Keep in mind that some weapons have animated or dynamic crosshairs.
 Weapons like the Charge Rifle, Cold Wae, Frag Grenade, etc... have specially animated crosshairs. which can cause weirdness or jank when used on other weapons or when using other crosshairs on them.
 
