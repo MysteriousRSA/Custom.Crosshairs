@@ -33,6 +33,27 @@ Instructions
 
 
 
+// Overlapping Crosshairs
+
+It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons].txt 
+
+WeaponData
+{
+    active_crosshair_count              "2"	//Amount of active Crosshairs
+
+    RUI_CrosshairData
+    {
+        Crosshair_1
+        {
+            "ui"                        "ui/crosshair_alternator"   //First Crosshair
+        }
+        Crosshair_2
+        {
+            "ui"                        "ui/crosshair_tri"          //Second Crosshair
+        }
+    }
+}
+
 // WHERE TO FIND CROSSHARS?
 
 A list of crosshairs can be found in /Mysterious.crosshairs/INSTRUCTIONS/Crosshair Examples
