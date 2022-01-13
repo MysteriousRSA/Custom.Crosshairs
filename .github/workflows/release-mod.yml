@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: zip install
+        uses: montudor/action-zip@v1.0.0
+
+      - name: zip
+        run: zip -qq -r ../Mysterious.Crosshairs.zip ./*
+        working-directory: Mysterious.Crosshairs
+
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Latest Build"
+          files: Mysterious.Crosshairs.zip

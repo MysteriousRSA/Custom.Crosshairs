@@ -1,0 +1,6 @@
+{
+	"Name" : "Mysterious.Crosshairs",
+	"Description" : "Adds customisable crosshairs",
+	"Version": "1.0.1",
+	"LoadPriority": 1
+}
