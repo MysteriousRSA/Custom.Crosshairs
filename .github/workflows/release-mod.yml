@@ -31,4 +31,14 @@ jobs:
           name: Mysterious.Crosshairs
           path: Mysterious.Crosshairs
           if-no-files-found: error
-          
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/download-artifact@v2
+        with:
+          name: Mysterious.Crosshairs
+          path: Mysterious.Crosshairs.zip
+
+      - name: List
+        run: ls -R

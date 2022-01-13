@@ -94,5 +94,5 @@ Thank you to `Cpone#0001` from the [Northstar Discord](https://northstar.tf/disc
 Any Issues? Create an issue, or message me on Discord `Mysterious#7899`
 
 
-[//]: # ([crosshairs]: https://github.com/MysteriousRSA/Custom.Crosshairs/raw/master/assets/crosshairs.png "Crosshair examples")
-[crosshairs]: https://github.com/Riccorbypro/Custom.Crosshairs/raw/master/assets/crosshairs.png "Crosshair examples"
+[//]: # ([crosshairs]: https://github.com/MysteriousRSA/Custom.Crosshairs/raw/main/assets/crosshairs.png "Crosshair examples")
+[crosshairs]: https://github.com/Riccorbypro/Custom.Crosshairs/raw/main/assets/crosshairs.png "Crosshair examples"
