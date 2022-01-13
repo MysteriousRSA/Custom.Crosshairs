@@ -11,10 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: zip
+      - name: zip install
         uses: montudor/action-zip@v1.0.0
-        with:
-          args: zip -qq -r -j Mysterious.Crosshairs.zip Mysterious.Crosshairs
+
+      - name: zip
+        run: zip -qq -r -j ../Mysterious.Crosshairs.zip ./*
+        working-directory: Mysterious.Crosshairs
 
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
