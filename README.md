@@ -86,6 +86,8 @@ In Theory, any RUI can work, just don't ask me where to find them
 
 # Extra Info
 
+All Weapon Names and their corrosponding file can be found in here: https://pastebin.com/pessGZh9
+
 All weapons that make use of special crosshairs have their defaults in place, But there is nothing preventing you from modifying them, all the files are there.
 
 Keep in mind that some weapons have animated or dynamic crosshairs.
