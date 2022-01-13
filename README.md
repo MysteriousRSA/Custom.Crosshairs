@@ -52,8 +52,8 @@ In Theory, you can overlap crosshairs like this
 	    {
 		    Crosshair_2 //Set this to the amount of crosshairs you want to use
 		    {
-			    "ui"						"ui/crosshair_alternator"   //First Crosshair
-               		    "ui"						"ui/crosshair_tri"          //Second Crosshair
+				"ui"						"ui/crosshair_alternator"   //First Crosshair
+ 				"ui"						"ui/crosshair_tri"          //Second Crosshair
 		    }
 	    }
     }
