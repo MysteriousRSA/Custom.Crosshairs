@@ -55,6 +55,8 @@ It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons
 
 //This example will combine the Alternator and R201 crossahirs into one
 
+//Limit seems to be 7 crosshairs
+
 
 
 ### No Crosshair?
