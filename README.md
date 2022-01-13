@@ -56,18 +56,16 @@ WeaponData
 
 # No Crosshair?
 
-WeaponData
-{   
-    RUI_CrosshairData
-    {
-	    Crosshair_1 
+    WeaponData
+    {   
+	    RUI_CrosshairData
 	    {
-		    "ui"						"ui/crosshair_sniper_amped" //This is an EMPTY Crosshair
+		    Crosshair_1 
+		    {
+			    "ui"						"ui/crosshair_sniper_amped" //This means NO crosshair
+		    }
 	    }
     }
-}
-
-
 
 # WHERE TO FIND CROSSHARS?
 
