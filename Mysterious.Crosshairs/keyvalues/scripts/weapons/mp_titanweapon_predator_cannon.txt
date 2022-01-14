@@ -1,24 +1,10 @@
 WeaponData
-{
-    active_crosshair_count              "4" 
-
+{   
     RUI_CrosshairData
     {
-        Crosshair_1                                                             
+        Crosshair_1 
         {
-            "ui"                        "ui/crosshair_titan_predator_close_range"   
-        }                                                                          
-        Crosshair_2                                                                    
-        {
-            "ui"                        "ui/crosshair_titan_predator_power_shot_long"          
-        }Crosshair_3                                                                    
-        {
-            "ui"                        "ui/crosshair_titan_predator_power_shot_close"          
-        }Crosshair_4                                                                    
-        {
-            "ui"                        "ui/crosshair_titan_predator_long_range"          
-        }                                                                               
+            "ui"                        "ui/crosshair_titan_predator_long_range"
+        }
     }
 }
-
-// Potentially Very Buggy, idfk what to do man, probably best to not use this
