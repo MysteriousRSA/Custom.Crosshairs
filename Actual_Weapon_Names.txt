@@ -3,7 +3,7 @@ In-Game Namse   // Name In Files   // Vanilla Crosshair + Secondary Crosshair et
 // Rifles
 
 R201       //  mp_weapon_rspn101.txt      // "ui/crosshair_tri"
-R101       //  mp_weapon_rspn101_og.txt   // "ui/crosshair_tru"
+R101       //  mp_weapon_rspn101_og.txt   // "ui/crosshair_tri"
 Hemlock    //  mp_weapon_hemlock.txt      // "ui/crosshair_tri"
 Flatline   //  mp_weapon_vinson.txt       // "ui/crosshair_alternator"
 G2A5       //  mp_weapon_g2.txt           // "ui/crosshair_tri"
