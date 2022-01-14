@@ -83,3 +83,10 @@ Firestar        //  mp_weapon_thermite_grenade.txt         // "ui/crosshair_fire
 Gravity Star    //  mp_weapon_grenade_gravity.txt          // "ui/crosshair_gravstar" + "ui/crosshair_ordnance"
 Electric Smoke  //  mp_weapon_grenade_electric_smoke.txt   // "ui/crosshair_esmoke" + "ui/crosshair_ordnance"
 Satchel         //  mp_weapon_satchel.txt                  // "ui/crosshair_satchel" + "ui/crosshair_ordnance"
+
+
+
+// Tacticals with crosshairs
+
+Pulse Blade   // mp_weapon_grenade_sonar.txt      // "ui/crosshair_pulse_blade" + "ui/crosshair_tactical" 
+A-Wall        // mp_weapon_deployable_cover.txt   // "ui/crosshair_mine" + "ui/crosshair_tactical"  
