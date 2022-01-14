@@ -1,5 +1,9 @@
 In-Game Namse   // Name In Files   // Vanilla Crosshair + Secondary Crosshair etc...
 
+
+
+/// PILOT
+
 // Rifles
 
 R201       //  mp_weapon_rspn101.txt      // "ui/crosshair_tri"
@@ -90,3 +94,55 @@ Satchel         //  mp_weapon_satchel.txt                  // "ui/crosshair_satc
 
 Pulse Blade   // mp_weapon_grenade_sonar.txt      // "ui/crosshair_pulse_blade" + "ui/crosshair_tactical" 
 A-Wall        // mp_weapon_deployable_cover.txt   // "ui/crosshair_mine" + "ui/crosshair_tactical"  
+
+
+
+/// TITANS
+
+// Ion
+
+Splitter Rifle   // mp_titanweapon_particle_accelerator.txt   // "ui/crosshair_ion" 
+Laser Shot       // mp_titanweapon_laser_lite.txt             // "ui/crosshair_circle2_small"
+Vortex Shield    // mp_titanweapon_vortex_shield_ion.txt      // "ui/crosshair_vortex"
+
+
+
+// Tone
+
+40MM               // mp_titanweapon_sticky_40mm.txt       // "ui/crosshair_40mm" + "ui/crosshair_40mm_burst"
+Salvo Core         // mp_titancore_salvo_core.txt          // "ui/crosshair_flight_core"
+
+
+
+// Legion [I have no idea whats going on here]
+
+Predator Cannon   // mp_titanweapon_predator_cannon.txt   // "ui/crosshair_titan_predator_close_range" + "ui/crosshair_titan_predator_power_shot_long" + "ui/crosshair_titan_predator_power_shot_close" + "ui/crosshair_titan_predator_long_range"
+
+
+
+// Scorch
+
+Thermite Launcher   // mp_titanweapon_meteor.txt   // "ui/crosshair_scorch"
+
+
+
+// Ronin
+
+Leadwall   // mp_titanweapon_leadwall.txt   // "ui/crosshair_leadwall"
+
+
+
+// Northstar 
+
+Plasma Railgun    // mp_titanweapon_sniper.txt               // "ui/crosshair_titan_sniper"
+Cluster Missile   // mp_titanweapon_dumbfire_rockets.txt     // "ui/crosshair_circle2"
+Flight Core       // mp_titanweapon_flightcore_rockets.txt   // "ui/crosshair_flight_core"
+
+
+
+// Monarch
+
+XO-16                   // mp_titanweapon_xo16_vanguard.txt      // "ui/crosshair_plus" + "ui/crosshair_tri"
+Rocket Salvo            // mp_titanweapon_salvo_rockets.txt      // "ui/crosshair_tracker_rockets"
+Multi Target Missiles   // mp_titanweapon_shoulder_rockets.txt   // "ui/crosshair_lstar"
+Energy Siphon           // mp_titanweapon_stun_laser.txt         // "ui/crosshair_circle2"
