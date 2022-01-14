@@ -99,6 +99,14 @@ A-Wall        // mp_weapon_deployable_cover.txt   // "ui/crosshair_mine" + "ui/c
 
 /// TITANS
 
+
+
+// Generic
+
+Quad Rocket   // mp_titanweapon_rocketeer_rocketstream.txt   // "ui/crosshair_smr"
+
+
+
 // Ion
 
 Splitter Rifle   // mp_titanweapon_particle_accelerator.txt   // "ui/crosshair_ion" 
