@@ -1,0 +1,10 @@
+WeaponData
+{
+	RUI_CrosshairData
+	{
+		Crosshair_1
+		{
+			"ui"						"ui/crosshair_titan_predator_long_range"
+		}
+	}
+}
