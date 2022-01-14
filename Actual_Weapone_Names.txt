@@ -1,0 +1,85 @@
+This is here because Respawn doesnt know how to name things consistantly
+
+// Rifles
+
+R201       //  mp_weapon_rspn101.txt
+R101       //  mp_weapon_rspn101_og.txt
+Hemlock    //  mp_weapon_hemlock.txt
+Flatline   //  mp_weapon_vinson.txt
+G2A5       //  mp_weapon_g2.txt
+
+
+
+// SMGs
+
+CAR          //  mp_weapon_car.txt
+Alternator   //  mp_weapon_alternator_smg.txt
+Volt         //  mp_weapon_hemlok_smg.txt
+R-97         //  mp_weapon_r97.txt
+
+
+
+// LMGs 
+
+Spitefire  //  mp_weapon_lmg.txt
+L-STAR     //  mp_weapon_lstar.txt 
+Devotion   //  mp_weapon_esaw.txt
+
+
+
+// Snipers
+
+Kraber       //  mp_weapon_sniper.txt
+Double Take  //  mp_weapon_doubletake.txt
+Longbow DRM  //  mp_weapon_dmr.txt
+
+
+
+// Shotguns 
+
+EVA-8 Auto  //  mp_weapon_shotgun.txt
+Mastiff     //  mp_weapon_mastiff.txt
+
+
+
+// Grenadier 
+
+SMR        //  mp_weapon_smr.txt
+EPG        //  mp_weapon_epg.txt
+Softball   //  mp_weapon_softball.txt
+Cold War   //  mp_weapon_pulse_lmg.txt
+
+
+
+// Primary Pistols 
+
+Wingman Elite   //  mp_weapon_wingman_n.txt
+Mozambique      //  mp_weapon_shotgun_pistol.txt
+
+
+
+// Secondary Pistol 
+
+RE-45     //  mp_weapon_autopistol.txt
+P2016     //  mp_weapon_semipistol.txt
+Wingman   //  mp_weapon_wingman.txt
+
+
+
+// Anti-Titan
+
+Charge Rifle   //   mp_weapon_defender.txt
+MGL            //   mp_weapon_mgl.txt
+Thunderbolt    //   mp_weapon_arc_launcher.txt
+Archer         //   mp_weapon_rocket_launcher.txt
+
+
+
+// Grenades 
+
+Frag            //  mp_weapon_frag_grenade.txt
+Arc             //  mp_weapon_grenade_emp.txt
+Firestar        //  mp_weapon_thermite_grenade.txt
+Gravity Star    //  mp_weapon_grenade_gravity.txt
+Electric Smoke  //  mp_weapon_grenade_electric_smoke.txt
+Satchel         //  mp_weapon_satchel.txt
