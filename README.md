@@ -84,6 +84,15 @@ In Theory, any RUI can work, just don't ask me where to find them
 
 
 
+### Examples
+
+![CH1](https://user-images.githubusercontent.com/45333346/149503054-45eb1fa5-5e89-4bf1-bf58-b58c1bfab94b.png)
+![CH2](https://user-images.githubusercontent.com/45333346/149503085-154c05b8-4a76-4d03-80aa-fe67fba1bcb1.png)
+
+### Somethinh Cursed...
+
+![cursed](https://user-images.githubusercontent.com/45333346/149503158-453c8879-df8d-45ca-845e-b5ef691c5566.png)
+
 # Extra Info
 
 All Weapon Names and their corrosponding file can be found in here: https://pastebin.com/pessGZh9
