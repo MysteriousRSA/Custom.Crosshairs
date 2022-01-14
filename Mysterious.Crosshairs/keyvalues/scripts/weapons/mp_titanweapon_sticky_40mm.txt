@@ -1,0 +1,16 @@
+WeaponData
+{
+    active_crosshair_count              "2" 
+
+    RUI_CrosshairData
+    {
+        Crosshair_1                                                             
+        {
+            "ui"                        "ui/crosshair_40mm"   
+        }                                                                          
+        Crosshair_2                                                                    
+        {
+            "ui"                        "ui/crosshair_40mm_burst"          
+        }                                                                               
+    }
+}
