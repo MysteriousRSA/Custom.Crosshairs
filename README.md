@@ -2,8 +2,6 @@
 
 This is a mod for [Titanfall 2's Northstar Client](https://northstar.tf) that allows you to modify any weapons's crosshair.
 
-By default, this will set all crosshairs to the Alternator's crosshair.
-
 I'll add more weapon types over time until I've got everything covered.
 
 # INSTRUCTIONS
