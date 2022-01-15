@@ -4,7 +4,7 @@ WeaponData
 	{
 		Crosshair_1
 		{
-			"ui"						"ui/crosshair_alternator"
+			"ui"						"ui/crosshair_lstar"
 		}
 	}
 }
