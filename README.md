@@ -14,7 +14,7 @@ This mod is compatible with:
 And
 [Viper](https://github.com/0neGal/viper)
 
-Manual Installation:
+### Manual Installation:
 
 1: Download the latest release [From the Release Page](https://github.com/MysteriousRSA/Custom.Crosshairs/releases)
 
