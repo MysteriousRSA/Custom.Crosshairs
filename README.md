@@ -6,7 +6,7 @@ I'll add more weapon types over time until I've got everything covered.
 
 # INSTRUCTIONS
 
-### INSTALATION:
+### INSTALLATION:
 
 This mod is compatible with:
 
