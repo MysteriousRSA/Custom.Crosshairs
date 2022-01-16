@@ -6,6 +6,22 @@ I'll add more weapon types over time until I've got everything covered.
 
 # INSTRUCTIONS
 
+### INSTALATION:
+
+This mod is compatible with:
+
+[NorthstarModManager](https://github.com/BigSpice/NorthStar-Mod-Manager-Ext-1)
+And
+[Viper](https://github.com/0neGal/viper)
+
+Manual Installation:
+
+1: Download the latest release [HERE](https://github.com/MysteriousRSA/Custom.Crosshairs/releases) or form the releases page
+
+2: Extract the zip file and more the folder "Mysterious.Crosshairs" to 
+    `~/Titanfall2/R2Northstar/mods/`
+
+
 ### How To Modify Crosshairs:
 
 1: Go to /Mysterious.Crosshairs/keyvalues/scripts/weapons/mp_weapon_[desired weapon].txt
@@ -24,6 +40,7 @@ I'll add more weapon types over time until I've got everything covered.
     }
 
 3: change "ui/crosshair_alternator" to your desired crosshair
+    NOTE: Sometimes it helps to remove //comments
 
 
 
@@ -106,3 +123,5 @@ Any Issues? Create an issue, or message me on Discord `Mysterious#7899`
 
 [//]: # ([crosshairs]: https://github.com/MysteriousRSA/Custom.Crosshairs/raw/main/assets/crosshairs.png "Crosshair examples")
 [crosshairs]: https://github.com/Riccorbypro/Custom.Crosshairs/raw/main/assets/crosshairs.png "Crosshair examples"
+
+More info can be found [HERE](https://youtu.be/dQw4w9WgXcQ)
