@@ -20,6 +20,7 @@ Manual Installation:
 
 2: Extract the zip file and more the folder "Mysterious.Crosshairs" to 
     `~/Titanfall2/R2Northstar/mods/`
+![location](https://user-images.githubusercontent.com/45333346/149657078-86db15a0-0ecc-4d53-9265-23d80a072cea.jpg)
 
 
 ### How To Modify Crosshairs:
