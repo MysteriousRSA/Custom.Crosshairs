@@ -76,6 +76,27 @@ It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons
 
 
 
+### Adjust Crosshair Spread?
+
+Simple add  
+``
+        "base_spread"               "3.0"   //This is a spread Multiplier
+``
+Below the "ui" line, Like this
+
+     {   
+        RUI_CrosshairData
+        {
+            Crosshair_1 
+            {
+                "ui"                        "ui/crosshair_alternator" //THis is the Croshair
+                "base_spread"               "3.0"   //This is a spread Multiplier
+            }
+        }
+    }
+
+NOTE: This only effects the visual spread of the crosshair, not actual bullet spread. Positive Values increase spread while negative decreases it.
+
 ### No Crosshair?
 
     WeaponData
