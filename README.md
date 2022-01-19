@@ -147,3 +147,5 @@ Any Issues? Create an issue, or message me on Discord `Mysterious#7899`
 [crosshairs]: https://github.com/Riccorbypro/Custom.Crosshairs/raw/main/assets/crosshairs.png "Crosshair examples"
 
 More info can be found [HERE](https://youtu.be/dQw4w9WgXcQ)
+
+Trans Rights.
