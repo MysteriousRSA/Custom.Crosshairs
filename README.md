@@ -18,7 +18,7 @@ And
 
 1: Download the latest release [From the Release Page](https://github.com/MysteriousRSA/Custom.Crosshairs/releases)
 
-2: Extract the zip file and more the folder "Mysterious.Crosshairs" to 
+2: Extract the zip file and move the folder "Mysterious.Crosshairs" to 
     `~/Titanfall2/R2Northstar/mods/`
 ![location](https://user-images.githubusercontent.com/45333346/149657078-86db15a0-0ecc-4d53-9265-23d80a072cea.jpg)
 
