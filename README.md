@@ -9,14 +9,14 @@ I'll add more weapon types over time until I've got everything covered.
 
 # INSTRUCTIONS
 
-### INSTALLATION:
+## INSTALLATION:
 
 This mod is compatible with:
 
 [NorthstarModManager](https://github.com/BigSpice/NorthStar-Mod-Manager-Ext-1), 
 [Viper](https://github.com/0neGal/viper) And [Thunderstore](https://northstar.thunderstore.io/)
 
-### Manual Installation:
+## Manual Installation:
 
 1: Download the latest release [From the Release Page](https://github.com/MysteriousRSA/Custom.Crosshairs/releases)
 
@@ -32,7 +32,7 @@ Origin: `C:\Program Files (x86)\Origin Games\Titanfall2`
 ![location](https://user-images.githubusercontent.com/45333346/149657078-86db15a0-0ecc-4d53-9265-23d80a072cea.jpg)
 
 
-### How To Modify Crosshairs:
+## How To Modify Crosshairs:
 
 1: Go to `~/Titanfall2/R2Northstar/mods/Mysterious.Crosshairs/keyvalues/scripts/weapons/mp_weapon_[desired weapon].txt`
 
@@ -53,9 +53,11 @@ Origin: `C:\Program Files (x86)\Origin Games\Titanfall2`
     NOTE: Sometimes it helps to remove //comments
 
 
-### Overlapping Crosshairs
+## Overlapping Crosshairs
 
 It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons].txt 
+
+**Below is an example of combining the Alternator and R201 crosshairs into one**
 
     WeaponData
     {
@@ -75,16 +77,16 @@ It is possible to combine crosshairs by modifying the mp_weapon_[Desired Weapons
     }
 
 
-//The sections can be repeated to add more Crosshairs
+**To add more crosshairs add another Crosshair_*X* following the formating in the script above.**
 
-//This example will combine the Alternator and R201 crosshairs into one, Like the image below
+**The limit for this seems to be 4 Crosshairs onscreen at once**
+
+### How the script above appears:
+
 ![triandaltCH](https://user-images.githubusercontent.com/45333346/149623038-64937ab7-bb0f-450c-ba92-97c625e715bf.png)
 
-//Limit seems to be 4 crosshairs
 
-
-
-### Adjust Crosshair Spread?
+## Adjust Crosshair Spread?
 
 Simple add  
 ``
@@ -105,7 +107,7 @@ Below the "ui" line, Like this
 
 NOTE: This only effects the visual spread of the crosshair, not actual bullet spread. Positive Values increase spread while negative decreases it.
 
-### No Crosshair?
+## No Crosshair?
 
     WeaponData
     {   
@@ -118,7 +120,7 @@ NOTE: This only effects the visual spread of the crosshair, not actual bullet sp
         }
     }
 
-### Crosshair Index:
+## Crosshair Index:
 
 These are the available crosshairs in game, along with their in-game reference:
 
@@ -130,7 +132,7 @@ In Theory, any RUI can work, just don't ask me where to find them
 
 
 
-### Examples
+## Examples
 
 ![CH1](https://user-images.githubusercontent.com/45333346/149503054-45eb1fa5-5e89-4bf1-bf58-b58c1bfab94b.png)
 ![CH2](https://user-images.githubusercontent.com/45333346/149503085-154c05b8-4a76-4d03-80aa-fe67fba1bcb1.png)
