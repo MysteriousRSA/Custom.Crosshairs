@@ -13,22 +13,28 @@ I'll add more weapon types over time until I've got everything covered.
 
 This mod is compatible with:
 
-[NorthstarModManager](https://github.com/BigSpice/NorthStar-Mod-Manager-Ext-1)
-And
-[Viper](https://github.com/0neGal/viper)
+[NorthstarModManager](https://github.com/BigSpice/NorthStar-Mod-Manager-Ext-1), 
+[Viper](https://github.com/0neGal/viper) And [Thunderstore](https://northstar.thunderstore.io/)
 
 ### Manual Installation:
 
 1: Download the latest release [From the Release Page](https://github.com/MysteriousRSA/Custom.Crosshairs/releases)
 
 2: Extract the zip file and move the folder "Mysterious.Crosshairs" to 
-    `~/Titanfall2/R2Northstar/mods/`
+    `~\Titanfall2\R2Northstar\mods\`
+
+Common Game Install Locations:
+
+Steam: `C:\Program Files (x86)\Steam\steamapps\common\Titanfall2`
+
+Origin: `C:\Program Files (x86)\Origin Games\Titanfall2` 
+
 ![location](https://user-images.githubusercontent.com/45333346/149657078-86db15a0-0ecc-4d53-9265-23d80a072cea.jpg)
 
 
 ### How To Modify Crosshairs:
 
-1: Go to /Mysterious.Crosshairs/keyvalues/scripts/weapons/mp_weapon_[desired weapon].txt
+1: Go to `~/Titanfall2/R2Northstar/mods/Mysterious.Crosshairs/keyvalues/scripts/weapons/mp_weapon_[desired weapon].txt`
 
 2: you'll see something that looks like this:
 
@@ -45,7 +51,6 @@ And
 
 3: change "ui/crosshair_alternator" to your desired crosshair
     NOTE: Sometimes it helps to remove //comments
-
 
 
 ### Overlapping Crosshairs
@@ -93,7 +98,7 @@ Below the "ui" line, Like this
             Crosshair_1 
             {
                 "ui"                        "ui/crosshair_alternator" //THis is the Croshair
-                "base_spread"               "3.0"   //This is a spread Multiplier
+                "base_spread"               "3.0"   //This is a spread Multiplier, Line doesnt exist by default
             }
         }
     }
@@ -135,6 +140,9 @@ In Theory, any RUI can work, just don't ask me where to find them
 ![cursed](https://user-images.githubusercontent.com/45333346/149503158-453c8879-df8d-45ca-845e-b5ef691c5566.png)
 
 # Extra Info
+
+It is reccomended to test this out in a private match first.
+Save any changes you made to the desired weapon's file and type `reload` in your console
 
 All weapons that make use of special crosshairs have their defaults in place, But there is nothing preventing you from modifying them, all the files are there.
 
