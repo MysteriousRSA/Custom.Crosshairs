@@ -13,7 +13,7 @@ I'll add more weapon types over time until I've got everything covered.
 
 This mod is compatible with:
 
-[NorthstarModManager](https://github.com/BigSpice/NorthStar-Mod-Manager-Ext-1), 
+[VTOL](https://github.com/BigSpice/VTOL), 
 [Viper](https://github.com/0neGal/viper) And [Thunderstore](https://northstar.thunderstore.io/)
 
 ## Manual Installation:
